@@ -1,0 +1,14 @@
+{
+  "appProperties": [ ],
+  "applicationId": "psaxrOrchestrations_wcljtq",
+  "dataProviders": [
+    {
+      "key": "WKDY-WQL",
+      "value": "https://api.workday.com/wql/v1/data?query="
+    },
+    {
+      "key": "WKDY-ORCH",
+      "value": "<% 'https://api.workday.com/orchestrate/v1/apps/psaxrOrchestrations_wcljtq/orchestrations/' %>"
+    }
+  ]
+}
