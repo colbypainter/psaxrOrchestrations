@@ -1,0 +1,26 @@
+{
+  "id": "psaxrOrchestrations_wcljtq",
+  "languages": [
+    {
+      "code": "en-US",
+      "description": "English"
+    }
+  ],
+  "siteAuth": {
+    "authTypes": [
+      {
+        "scheme": "SSO",
+        "id": "sso"
+      },
+      {
+        "scheme": "ISU",
+        "id": "isuAuth",
+        "username": "ISU_psaxrOrchestrations"
+      }
+    ]
+  },
+  "siteId": "psaxrOrchestrations_wcljtq",
+  "cdnEnabled": true,
+  "siteProperties": [ ],
+  "applicationId": "psaxrOrchestrations_wcljtq"
+}
